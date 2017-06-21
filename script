@@ -107,6 +107,7 @@ Github help
 
 
 
+######## SHINYAPPS  ##########
 
 shinyapps::setAccountInfo(
     name="rrobles", 
